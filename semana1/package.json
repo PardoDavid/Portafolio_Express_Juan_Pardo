@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "semana1",
+  "version": "1.0.0",
+  "description": "Introduccion JS(Backend)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon --watch ./index.js"
+  },
+  "author": "David Pardo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PardoDavid/Portafolio_Juan_Pardo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PardoDavid/Portafolio_Juan_Pardo/issues"
+  },
+  "homepage": "https://github.com/PardoDavid/Portafolio_Juan_Pardo#readme"
+}
